@@ -90,7 +90,7 @@ class ViewController: UIViewController {
         buttons.append(Button15)
         buttons.append(Button16)
         buttons.append(Button17)
-        buttons.append(Button18)
+        buttons.append(Button18)//
 
         
         for button in buttons {
